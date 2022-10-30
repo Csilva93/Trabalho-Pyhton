@@ -1,0 +1,5 @@
+baseMaior = input('Valor de uma base: ')
+baseMenor = input('Valor da outra base: ')
+altura    = input('Valor da Altura: ')
+area = (baseMaior + baseMenor) * altura / 2.0
+print = ("Area: ") , area
